@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Desktop\Srujith\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\Admin\OneDrive\Desktop\Srujith\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\Admin\OneDrive\Desktop\Srujith\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\Admin\OneDrive\Desktop\Srujith\FirstProject\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Srujith\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Srujith\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\Admin\OneDrive\Desktop\Srujith\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
