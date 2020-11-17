@@ -1,0 +1,7 @@
+G:\Srujith\Day7Project\Day7Project\bin\Debug\Day7Project.exe.config
+G:\Srujith\Day7Project\Day7Project\bin\Debug\Day7Project.exe
+G:\Srujith\Day7Project\Day7Project\bin\Debug\Day7Project.pdb
+G:\Srujith\Day7Project\Day7Project\obj\Debug\Day7Project.csprojAssemblyReference.cache
+G:\Srujith\Day7Project\Day7Project\obj\Debug\Day7Project.csproj.CoreCompileInputs.cache
+G:\Srujith\Day7Project\Day7Project\obj\Debug\Day7Project.exe
+G:\Srujith\Day7Project\Day7Project\obj\Debug\Day7Project.pdb
